@@ -1,22 +1,20 @@
-# Console Application
+# Python-Basic
+A Basic Scripts of Python
 
-  I just want to upload this because this was my first Console Application i wrote in C. Yes, I know its pure basic but i love my work..
-# Hotel-Transaction-CLI
-//--------------------------------------------------------<br/>
-//Author : Jadhusan<br/>
-//Poject Descriptions : Console Application For A Hotel Transaction<br/>
-//Date : July ‎12, ‎2019<br/>
-//--------------------------------------------------------<br/>
 
-# Travel-Booking-CLI-
-CLI system for Travel Booking
+## This scripts include: <br/>
+*List<br/>
+*Modules<br/>
+*Strings<br/>
+*Tuples<br/>
+*Validators<br/>
+*Variables <br/>
+*Classes<br/>
+*Conditionals<br/>
+*Files<br/>
+*Modules<br/>
+*Py_json<br/>
 
-### Created With:
-  | `1. C`       |
-  | `2. Python`        | 
-  | `3. Python using oop`         |
-
-### Install the Python requirements:
-    pip install -r req.txt
-
-"# C-Basic" 
+# Python-Intermediate
+A Intermediate Tut(Scripts)
+"# Python3-Pack" 
